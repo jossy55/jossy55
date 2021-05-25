@@ -6,7 +6,7 @@ name: John Masih
     
     phone: 07533109684
     
-    website:  https://jossy55.github.io/online-cv
+    website: https://jossy55.github.io/jossy55/ 
     
     linkedin: https://www.linkedin.com/in/john-masih-b123b173/
     
