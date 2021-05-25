@@ -5,6 +5,9 @@ name: John Masih
     phone: 07533109684
     website:  https://jossy55.github.io/online-cv
     linkedin: https://www.linkedin.com/in/john-masih-b123b173/
+    github: jossy55
+    Instagram: https://www.instagram.com/john_masih_/
+    twitter: 'john masih@jossyvm'https://twitter.com/home
 
 <!--
 **jossy55/jossy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
