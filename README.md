@@ -22,7 +22,17 @@ name: John Masih
        
        - An intensive 12 -week course ,focused on the fundamentals of cloud development,delivered through a combination of interactive group learning, and home learning tasks.
           - Learn and prepare to take exam for AWS Certified Cloud Practioner.
-
+          
+- Course: CompTIA Infrastructure Course 
+     Course Provider: Netcom LTD 
+      time: Jan 2020- March 2021
+      details: |
+        
+          - CompTIA+ ,CompTIA Network + ,CompTIA Security +
+          - BTEC LEVEL 3 in Networking & Architecture 
+          - BTEC LEVEL 3 in Mobile & Operating Systems 
+          - BTEC LEVEL 3 in Business Processes 
+          - BTEC LEVEL 3 in Cloud Services 
 <!--
 **jossy55/jossy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
