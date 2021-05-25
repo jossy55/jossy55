@@ -1,12 +1,19 @@
 ### Hi there 👋
 name: John Masih
     tagline: Software Trainee at AWS/Restart 
+    
     email: jossyveenu@gmail.com
+    
     phone: 07533109684
+    
     website:  https://jossy55.github.io/online-cv
+    
     linkedin: https://www.linkedin.com/in/john-masih-b123b173/
+    
     github: jossy55
+    
     Instagram: https://www.instagram.com/john_masih_/
+    
     twitter: 'john masih@jossyvm'https://twitter.com/home
     
      title: Personal Statement
