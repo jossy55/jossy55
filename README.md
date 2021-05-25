@@ -33,6 +33,27 @@ name: John Masih
           - BTEC LEVEL 3 in Mobile & Operating Systems 
           - BTEC LEVEL 3 in Business Processes 
           - BTEC LEVEL 3 in Cloud Services 
+          - experiences:
+    - role: HR Administrator 
+      time:Jan 2021 -April 2021
+      company: St John's Ambulance 
+      details: |
+        
+          - To administer starter/leaver processes including all documentation,induction processes and exit interviews.
+          - To Maintain and update electronic and hard copy personnel record systems containing all employment -related information including absence,holidays ,starters and 
+          leavers ,benefits and equality and diversity,
+          - To Support the implementation of HR systems or databases;to enter data and maintain these accordingly .
+          
+    - role: Foods & Operations Section-Coordinator
+      time: September 2004 - October 2020
+      company: Marks & Spencer PLC
+      details: |
+       
+          - Coordinate people,resouces and activity to deliver the sales plan.
+          - Ensure the store trades safely and legally ,while maintaining excellent service and presentation standards .
+          - Plan & Coordinate the delivery of corporate and seasonal updates and events in line with the M&S brand ,
+          - Drive the actions required to meet targets for stock loss,stock accuracy and waste .
+   
 <!--
 **jossy55/jossy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
