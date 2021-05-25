@@ -1,12 +1,13 @@
 ### Hi there 👋
+name: John Masih
+    tagline: Software Trainee at AWS/Restart 
 
 <!--
 **jossy55/jossy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- name: John Masih
-    tagline: Software Trainee at AWS/Restart 
+- 
 
 
 - 🌱 I’m currently learning ...
