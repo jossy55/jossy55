@@ -53,6 +53,28 @@ name: John Masih
           - Ensure the store trades safely and legally ,while maintaining excellent service and presentation standards .
           - Plan & Coordinate the delivery of corporate and seasonal updates and events in line with the M&S brand ,
           - Drive the actions required to meet targets for stock loss,stock accuracy and waste .
+          - 
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python 
+        level: 40%
+
+      - name: Microsoft Office :Word,Excel ,Teams and Office 365 
+        level: 85%
+
+      - name: Emailing ,Touch Typing and Word Processing 
+        level: 98%
+
+      - name: Presentation Skills 
+        level: 93%
+
+      - name: Google Drive ,Sheets ,Docs 
+        level: 85%
+
+      - name: Conference Calling Software ,Zoom ,Skype ,Slack .
+        level: 70%
    
 <!--
 **jossy55/jossy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
