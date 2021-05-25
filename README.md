@@ -14,6 +14,14 @@ name: John Masih
       I am a motivated ,responsible and approachable individual with a strong work ethic ,built upon a career of retail management,I see myself as conscientious 
       and objective as i thrive to achieve goals and am capable of meeting deadlines whilst under pressure .I can operate both independently using my own iniative and as a 
       member of a team .
+      education:
+    - Course : AWS/Restart
+      Course Provider: TechTalent 
+      time: March 2021 - Currently Studying
+      details: |
+       
+       - An intensive 12 -week course ,focused on the fundamentals of cloud development,delivered through a combination of interactive group learning, and home learning tasks.
+          - Learn and prepare to take exam for AWS Certified Cloud Practioner.
 
 <!--
 **jossy55/jossy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
